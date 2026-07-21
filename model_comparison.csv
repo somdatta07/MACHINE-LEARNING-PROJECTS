@@ -1,0 +1,8 @@
+Model,Test RMSE,Test MAE,Test R2,CV R2 (mean),CV R2 (std)
+Random Forest,2.44,1.829,0.883,0.852,0.037
+Gradient Boosting,2.508,1.862,0.877,0.868,0.032
+SVR (RBF),3.058,2.02,0.817,0.866,0.022
+Decision Tree,3.179,2.392,0.802,0.755,0.042
+Linear Regression,3.472,2.642,0.764,0.74,0.033
+Ridge Regression,3.473,2.644,0.764,0.741,0.033
+Lasso Regression,3.476,2.647,0.763,0.74,0.033
