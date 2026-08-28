@@ -1,0 +1,154 @@
+# 📊 Unemployment Analysis with Python
+
+## 📌 Project Overview
+
+Unemployment is one of the most important economic indicators used to measure the health of an economy. It represents the percentage of people in the labor force who are actively seeking employment but are unable to find work.
+
+The COVID-19 pandemic significantly impacted global economies, leading to a sharp rise in unemployment rates across many countries and regions. This project analyzes unemployment trends using Python and Data Science techniques to understand the impact of the pandemic and identify patterns in employment data.
+
+This project involves data cleaning, exploratory data analysis (EDA), visualization, and interpretation of unemployment statistics using Python.
+
+---
+
+## 🎯 Objectives
+
+- Analyze unemployment rates over time.
+- Study the impact of COVID-19 on unemployment.
+- Identify trends and patterns in unemployment data.
+- Compare unemployment rates across regions/states.
+- Visualize unemployment statistics using graphs and charts.
+- Generate insights from economic data.
+
+---
+
+## 📊 Dataset Information
+
+The dataset contains unemployment-related information such as:
+
+| Column Name | Description |
+|------------|-------------|
+| Region | State/Region Name |
+| Date | Observation Date |
+| Frequency | Monthly/Quarterly Data |
+| Estimated Unemployment Rate (%) | Unemployment Percentage |
+| Estimated Employed | Number of Employed People |
+| Estimated Labour Participation Rate (%) | Labour Participation Rate |
+
+### Dataset Source : https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly (Optional)
+- Jupyter Notebook
+
+---
+
+### Visualizations
+
+#### 1. Unemployment Rate Trend
+
+Shows changes in unemployment over time.
+
+#### 2. State-wise Comparison
+
+Compares unemployment rates among regions.
+
+#### 3. COVID-19 Impact Analysis
+
+Highlights unemployment spikes during the pandemic period.
+
+#### 4. Correlation Heatmap
+
+Shows relationships between employment-related variables.
+
+---
+
+
+
+## 📊 Expected Insights
+
+- Unemployment increased sharply during COVID-19 lockdown periods.
+- Certain states experienced higher unemployment rates than others.
+- Labour participation rates were affected during economic disruptions.
+- Employment recovery trends can be observed post-pandemic.
+
+---
+
+## 📉 Key Findings
+
+### Before COVID-19
+
+- Relatively stable unemployment levels.
+- Consistent labour participation.
+
+### During COVID-19
+
+- Significant increase in unemployment.
+- Reduced workforce participation.
+- Economic slowdown across regions.
+
+### After COVID-19
+
+- Gradual recovery in employment.
+- Improved labour market conditions.
+
+---
+
+
+## 📚 Skills Demonstrated
+
+### Data Analysis
+
+- Data Cleaning
+- Data Transformation
+- Data Exploration
+
+### Visualization
+
+- Line Charts
+- Bar Charts
+- Heatmaps
+- Trend Analysis
+
+### Python Libraries
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## 🚀 Future Enhancements
+
+- Interactive dashboard using Streamlit
+- Predict future unemployment rates using Machine Learning
+- Regional clustering analysis
+- Real-time data integration
+- Time Series Forecasting using ARIMA and Prophet
+
+---
+
+## 🎓 Learning Outcomes
+
+By completing this project, you will learn:
+
+- Economic data analysis
+- Exploratory Data Analysis (EDA)
+- Data visualization techniques
+- Trend identification
+- Real-world dataset handling
+- Statistical interpretation
+
+---
+
+
+GitHub: https://github.com/somdatta07
+LinkedIn: https://www.linkedin.com
